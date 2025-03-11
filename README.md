@@ -28,4 +28,6 @@ C – Toggle fog effect on/off 🌫️<br>
 P – Toggle rain effect on/off 🌧️<br>
 T – Start an automatic tour of the scene<br>
 F – Enable GL_Line and GL_Point representations</p>
+
+<p>The objects and textures were not downloaded from the internet and do not have usage rights, so they are not included in the project!</p>
 </div>
